@@ -3,7 +3,10 @@ A device that allows people to hit things over the internet
 
 https://youtu.be/6PhGe3AHHIw
 
-## Hardware required
+<img src="DSC08643.JPG" width="400"/>
+
+
+### Hardware required
 
 1. Arduino Uno or compatible (pictured: SparkFun Redboard)
 2. Arudino-compatible ethernet shield
@@ -14,20 +17,22 @@ https://youtu.be/6PhGe3AHHIw
 7. Breadboard
 8. Something dangerous to swing
 
+### Source:
 
-## 3rd party tools:
+
+### 3rd party tools:
 
 http://playground.arduino.cc/Code/TwitterLibrary
 http://arduino-tweet.appspot.com/
 
 
 
-## Fritizing diagram
+### Fritizing diagram
 
 <img src="SchematicFritz_bb.png" width="400">
 
 
-## References
+### References
 Arduino web server:  
 http://www.instructables.com/id/Easy-Basic-Arduino-Ethernet-Controller/?ALLSTEPS
 
