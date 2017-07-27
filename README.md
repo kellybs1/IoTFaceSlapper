@@ -19,6 +19,7 @@ https://youtu.be/6PhGe3AHHIw
 
 ### Source:
 
+https://github.com/kellybs1/IoTFaceSlapper/blob/master/FaceSlapper/FaceSlapper.ino
 
 ### 3rd party tools:
 
