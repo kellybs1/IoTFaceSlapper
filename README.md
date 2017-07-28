@@ -9,7 +9,7 @@ https://youtu.be/6PhGe3AHHIw
 ### Hardware required
 
 1. Arduino Uno or compatible (pictured: SparkFun Redboard)
-2. Arudino-compatible ethernet shield (eg https://www.adafruit.com/product/201)
+2. Arduino-compatible ethernet shield (eg https://www.adafruit.com/product/201)
 3. Buzzer
 4. Servo
 5. 2x LEDs
