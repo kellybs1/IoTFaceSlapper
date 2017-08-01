@@ -1,5 +1,5 @@
 # IoTFaceSlapper
-A device that allows people to hit things over a network
+A device that allows people to hit things over a network. Originally built for IN620 Embedded Systems, semester 1, 2016.
 
 https://youtu.be/6PhGe3AHHIw
 
